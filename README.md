@@ -53,7 +53,8 @@
 
 
 ## Output:
-![image](https://github.com/panimalarponnurangam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121490826/7cb4c6bf-bf8c-49cc-b079-da2249bfb0eb)
+![image](https://github.com/panimalarponnurangam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121490826/8a1362b6-96ab-4974-af2f-5728c59063dd)
+
 
 
 
